@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/greenthumb.github.io/static/css/main.c12386bb.css",
+    "main.js": "/greenthumb.github.io/static/js/main.36d28e19.js",
+    "static/media/monsti-big.jpg": "/greenthumb.github.io/static/media/monsti-big.aba0ffbf607aa60295f8.jpg",
+    "static/media/livingroom.jpeg": "/greenthumb.github.io/static/media/livingroom.1e116ef042a313fef39a.jpeg",
+    "static/media/tropical-wallpaper.jpeg": "/greenthumb.github.io/static/media/tropical-wallpaper.b39f39f472348fba9e4a.jpeg",
+    "static/media/slider-3.jpeg": "/greenthumb.github.io/static/media/slider-3.adbb9d1f84f71017928b.jpeg",
+    "static/media/jungle.jpeg": "/greenthumb.github.io/static/media/jungle.8950e5cf2b65d06abd88.jpeg",
+    "static/media/about-photo.png": "/greenthumb.github.io/static/media/about-photo.e4c666d7b0a00f293bb0.png",
+    "static/media/hoya-linearis.jpeg": "/greenthumb.github.io/static/media/hoya-linearis.2f5107a5cbb34ec9b413.jpeg",
+    "static/media/stephania-erecta.jpeg": "/greenthumb.github.io/static/media/stephania-erecta.29a6431073a0443c9cdf.jpeg",
+    "static/media/pink-wall.jpeg": "/greenthumb.github.io/static/media/pink-wall.b6ec2c7a7f08e80b216b.jpeg",
+    "static/media/pothos.jpeg": "/greenthumb.github.io/static/media/pothos.edbccd0768b89cef10d4.jpeg",
+    "static/media/philodendron-micans.jpeg": "/greenthumb.github.io/static/media/philodendron-micans.714f9725f68a791f3385.jpeg",
+    "static/media/alocasia-frydek.jpeg": "/greenthumb.github.io/static/media/alocasia-frydek.51fbfac120e576aa9a4a.jpeg",
+    "static/media/philodendron-verrucosum.jpeg": "/greenthumb.github.io/static/media/philodendron-verrucosum.f4cb5ddb01afce6b23ff.jpeg",
+    "static/media/jewel-orchid.jpeg": "/greenthumb.github.io/static/media/jewel-orchid.7b1727f552bbab4f3b3b.jpeg",
+    "static/media/philodendron-gloriosum.jpeg": "/greenthumb.github.io/static/media/philodendron-gloriosum.334b13885f2656fcd3c3.jpeg",
+    "static/media/ficus.jpeg": "/greenthumb.github.io/static/media/ficus.21778c07ee23e08b26e7.jpeg",
+    "static/media/string-of-turtles.jpeg": "/greenthumb.github.io/static/media/string-of-turtles.a25fa7d0aa3105977753.jpeg",
+    "static/media/satin-pothos.jpeg": "/greenthumb.github.io/static/media/satin-pothos.1366dec1533ea51107a3.jpeg",
+    "static/media/fern-asparagus.jpeg": "/greenthumb.github.io/static/media/fern-asparagus.4b2dc3267f39f5edbeab.jpeg",
+    "static/media/calathea.jpeg": "/greenthumb.github.io/static/media/calathea.214179368e181e267c6d.jpeg",
+    "static/media/anthurium-clarinervium.jpeg": "/greenthumb.github.io/static/media/anthurium-clarinervium.3f2697bf4cb131c9fa29.jpeg",
+    "static/media/monstera.jpg": "/greenthumb.github.io/static/media/monstera.286599214eab5de9fc50.jpg",
+    "static/media/alocasia-zebrina.jpeg": "/greenthumb.github.io/static/media/alocasia-zebrina.0bbea238e3e552d2136c.jpeg",
+    "static/media/pilea.jpeg": "/greenthumb.github.io/static/media/pilea.fc9cf84b0520a4f43a17.jpeg",
+    "static/media/white-princess.jpeg": "/greenthumb.github.io/static/media/white-princess.fc6782828c48313a0be2.jpeg",
+    "static/media/favicon.png": "/greenthumb.github.io/static/media/favicon.37f97f6ca11c9524ac68.png",
+    "static/media/pink-princess.jpeg": "/greenthumb.github.io/static/media/pink-princess.fea34130e0b8c99aa358.jpeg",
+    "static/media/alocasia-portodora.jpeg": "/greenthumb.github.io/static/media/alocasia-portodora.367a8abb96279cc0c09f.jpeg",
+    "static/media/half-moon.jpeg": "/greenthumb.github.io/static/media/half-moon.fb02d6bd841083e5732c.jpeg",
+    "index.html": "/greenthumb.github.io/index.html",
+    "main.c12386bb.css.map": "/greenthumb.github.io/static/css/main.c12386bb.css.map",
+    "main.36d28e19.js.map": "/greenthumb.github.io/static/js/main.36d28e19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c12386bb.css",
+    "static/js/main.36d28e19.js"
+  ]
+}
