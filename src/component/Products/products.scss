@@ -1,0 +1,21 @@
+.Products {
+    overflow: hidden;
+    padding: 2rem 0rem;
+    .card {
+        margin: 1rem;
+        width: 100%;
+        padding: 1rem;
+
+        .card-body {
+            .button-quick-add {
+                display: flex;
+                flex-direction: row-reverse;
+
+                .icon-plus {
+                    margin-right: 0.3rem;
+                    width: .7rem;
+                }
+            }
+        }
+    }
+}
